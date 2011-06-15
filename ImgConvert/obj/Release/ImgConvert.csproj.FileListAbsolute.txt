@@ -1,0 +1,20 @@
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\bin\Release\ImgConvert.exe
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\bin\Release\ImgConvert.pdb
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\obj\Release\ImgConvert.exe
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\obj\Release\ImgConvert.pdb
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\obj\Release\ImgConvert.FileTabSheet.resources
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\obj\Release\ImgConvert.Form1.resources
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\obj\Release\ImgConvert.csproj.GenerateResource.Cache
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\obj\Release\ImgConvert.AnimationBox.resources
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\obj\Release\ImgConvert.AudioBox.resources
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\bin\Release\ImgConvert.exe
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\bin\Release\ImgConvert.pdb
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\obj\Release\ImgConvert.AnimationBox.resources
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\obj\Release\ImgConvert.AudioBox.resources
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\obj\Release\ImgConvert.FileTabSheet.resources
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\obj\Release\ImgConvert.Form1.resources
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\obj\Release\ImgConvert.csproj.GenerateResource.Cache
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\obj\Release\ImgConvert.exe
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\obj\Release\ImgConvert.pdb

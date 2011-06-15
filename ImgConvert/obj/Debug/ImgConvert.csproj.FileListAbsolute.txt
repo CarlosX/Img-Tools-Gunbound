@@ -1,0 +1,32 @@
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\obj\Debug\ImgConvert.Form1.resources
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\obj\Debug\ImgConvert.csproj.GenerateResource.Cache
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\bin\Debug\ImgConvert.exe
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\bin\Debug\ImgConvert.pdb
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\obj\Debug\ImgConvert.AnimationBox.resources
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\obj\Debug\ImgConvert.AudioBox.resources
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\obj\Debug\ImgConvert.FileTabSheet.resources
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\obj\Debug\ImgConvert.exe
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\Projects\ImgConvert\ImgConvert\obj\Debug\ImgConvert.pdb
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\ImgConvert\ImgConvert\obj\Debug\ImgConvert.exe
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\ImgConvert\ImgConvert\obj\Debug\ImgConvert.pdb
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\ImgConvert\ImgConvert\bin\Debug\ImgConvert.exe
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\ImgConvert\ImgConvert\bin\Debug\ImgConvert.pdb
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\ImgConvert\ImgConvert\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\ImgConvert\ImgConvert\obj\Debug\ImgConvert.AnimationBox.resources
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\ImgConvert\ImgConvert\obj\Debug\ImgConvert.AudioBox.resources
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\ImgConvert\ImgConvert\obj\Debug\ImgConvert.FileTabSheet.resources
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\ImgConvert\ImgConvert\obj\Debug\ImgConvert.Form1.resources
+C:\Documents and Settings\CarlosX\Mis documentos\Visual Studio 2008\ImgConvert\ImgConvert\obj\Debug\ImgConvert.csproj.GenerateResource.Cache
+C:\Documents and Settings\CARLOSX\Escritorio\ImgConvert\ImgConvert\obj\Debug\ImgConvert.exe
+C:\Documents and Settings\CARLOSX\Escritorio\ImgConvert\ImgConvert\obj\Debug\ImgConvert.pdb
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\obj\Debug\ImgConvert.exe
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\obj\Debug\ImgConvert.pdb
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\bin\Debug\ImgConvert.exe
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\bin\Debug\ImgConvert.pdb
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\obj\Debug\ImgConvert.AnimationBox.resources
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\obj\Debug\ImgConvert.AudioBox.resources
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\obj\Debug\ImgConvert.FileTabSheet.resources
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\obj\Debug\ImgConvert.Form1.resources
+C:\Documents and Settings\CARLOS\Escritorio\ImgConvert\ImgConvert\obj\Debug\ImgConvert.csproj.GenerateResource.Cache
