@@ -1,0 +1,10 @@
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\obj\Release\ImgTools.csproj.GenerateResource.Cache
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\bin\Release\ImgTools.exe
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\bin\Release\ImgTools.pdb
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\obj\Release\ImgTools.AnimationBox.resources
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\obj\Release\ImgTools.AudioBox.resources
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\obj\Release\ImgTools.FileTabSheet.resources
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\obj\Release\ImgTools.Form1.resources
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\obj\Release\ImgTools.exe
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\obj\Release\ImgTools.pdb
