@@ -331,7 +331,6 @@ namespace ImgTools
                     {
                         Animation animation2 = this.m_Animations[m];
                         Frame frame2 = animation2.Frames[k % animation2.Frames.Length];
-                        //Log.WriteLine("Data",Log.HexStr(BmpToBytes_Unsafe(frame2.Image)).Replace("00",""));
                         graphics.DrawImageUnscaled(frame2.Image, num15 + frame2.CenterX, num16 + frame2.CenterY, frame2.Image.Width, frame2.Image.Height);
                     }
                     image.Save(string.Format(str, fileNameWithoutExtension, k, extension), png);
@@ -448,7 +447,6 @@ namespace ImgTools
         }
         protected override void OnPaint(PaintEventArgs e)
         {
-            //Log.WriteLine("OnPaint2");
             Graphics graphics = e.Graphics;
             graphics.Clear(Color.Black);
             ControlPaint.DrawBorder3D(graphics, 0, 0, base.Width, base.Height, Border3DStyle.Sunken);

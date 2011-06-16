@@ -53,7 +53,7 @@ namespace ImgTools
                 int[] iArr = new int[] { 1 };
                 Animation animation = new Animation(frameArr2, iArr);
                 AnimationBox animationBox = new AnimationBox();
-                animationBox.Title = "Image";
+                animationBox.Title = "Imagen";
                 Animation[] animationArr = new Animation[] { animation };
                 animationBox.Animations = animationArr;
                 animationBox.Name = Path.GetFileNameWithoutExtension(file.FileName);
@@ -64,11 +64,6 @@ namespace ImgTools
             }
             panel.Controls.Add(fileTabSheet);
         }
-
-
-    //    //private byte b1 = 0;
-    //    //private byte b2 = 0;
-    //    //private byte b3 = 0;
 
         public unsafe static Frame[] LoadFrames(ArchivedFile file)
         {

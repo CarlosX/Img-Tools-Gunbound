@@ -38,7 +38,6 @@ namespace ImgTools
         {
             if (!this.Validate())
             {
-                Log.WriteLine("no hay nada");
                 byte[] xc = new byte[] { 0x01};
                 return xc;
             }
@@ -85,7 +84,6 @@ namespace ImgTools
         {
             if (!this.Validate())
             {
-                Log.WriteLine("ReadInt16 No Valido");
                 return 0;
             }
             this.m_Stream.Read(m_Buffer, 0, 2);
@@ -96,7 +94,6 @@ namespace ImgTools
         {
             if (!this.Validate())
             {
-                Log.WriteLine("ReadInt32 No Valido");
                 return 0;
             }
             this.m_Stream.Read(m_Buffer, 0, 4);

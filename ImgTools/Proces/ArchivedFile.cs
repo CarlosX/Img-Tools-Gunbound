@@ -162,11 +162,8 @@ namespace ImgTools
         public void Download(Stream output)
         {
             int i3;
-            //Log.WriteLine("Download");
-            //m_Stream.Seek(m_Lookup, SeekOrigin.Begin);
             if (!m_Compressed)
             {
-                Log.WriteLine("Tamaño", m_Length);
                 byte[] bArr1 = m_Stream.ReadBytes(m_Length);
                 output.Write(bArr1, 0, m_Length);
             }
@@ -179,7 +176,6 @@ namespace ImgTools
                     m_Stream.ReadInt32();
                     byte[] bArr2 = m_Stream.ReadBytes(i2);
                     byte[] bArr3 = Compression.Decompress(bArr2, i2, 4096, ref i3);
-                    //output.Write(bArr3, 0, i3 > i1 ? i1 : i3);
                     output.Write(bArr3, 0, (i3 <= i1) ? i3 : i1);
                 }
             }

@@ -38,14 +38,10 @@ namespace ImgTools
         {
             Console.WriteLine("[Log]: {0}", log);
         }
-
-
-
         public static string HexStr(byte[] p)
         {
             char[] c = new char[p.Length * 2 + 2];
             byte b;
-            //c[0] = '0'; c[1] = 'x';
             for (int y = 0, x = 2; y < p.Length; ++y, ++x)
             {
                 b = ((byte)(p[y] >> 4));
